@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_City  Location List</name>
+   <tag></tag>
+   <elementGuidId>0c7dbb5d-7d02-4dfe-a378-079c82e2d424</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-select-value-99</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id = 'mat-select-value-99' and (text() = 'City' or . = 'City')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5b2784eb-7acb-4188-9d0f-b5e8b201430a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-value ng-tns-c49-53</value>
+      <webElementGuid>a59001e6-215f-4b25-abe9-e3ab47c2317c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-select-value-99</value>
+      <webElementGuid>1849aa72-629a-4fd0-af04-fd8751b12ae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>City</value>
+      <webElementGuid>ac611458-ce9c-432b-b03f-4a8c68899d85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-99&quot;)</value>
+      <webElementGuid>9d15c9c0-6cf1-4db4-a022-1c0174e222c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-99']</value>
+      <webElementGuid>369e9723-0dc6-4d91-a320-e944684ddf45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='city']/div/div</value>
+      <webElementGuid>71657b4b-ead0-4196-b8e4-88ada107616a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::div[6]</value>
+      <webElementGuid>94b2dc50-3eb5-49b8-9861-7a595af02527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thailand'])[1]/following::div[12]</value>
+      <webElementGuid>d8b92e47-6d46-4e85-9060-27df609a8da9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contract Type*'])[1]/preceding::div[3]</value>
+      <webElementGuid>3ac9ef7b-63d0-4176-8d17-3e6070d36d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/mat-select/div/div</value>
+      <webElementGuid>5ab1f99d-c27c-4b55-9c72-dce74101d870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'mat-select-value-99' and (text() = 'City' or . = 'City')]</value>
+      <webElementGuid>51db883e-ada3-4d21-a10e-c68107a958d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

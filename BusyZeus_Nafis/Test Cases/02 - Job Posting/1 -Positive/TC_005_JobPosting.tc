@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Users successfully post a full-time job with all the details.</description>
-   <name>TC_002_JobPosting</name>
+   <name>TC_005_JobPosting</name>
    <tag>positive, job posting</tag>
    <comment></comment>
    <testCaseGuid>0566f8c7-4e51-4ab5-8c33-1b2bc8cff49e</testCaseGuid>

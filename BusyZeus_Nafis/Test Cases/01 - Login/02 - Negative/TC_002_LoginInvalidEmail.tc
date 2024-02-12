@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Employer enters an invalid email</description>
+   <name>TC_002_LoginInvalidEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f819d61d-d508-4e0c-bb20-c2e99c6aecb7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ebf2a80b-772c-467b-87dd-827fa39c4470</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'fixbee@gmail.com'</defaultValue>
+      <description></description>
+      <id>ebf2a80b-772c-467b-87dd-827fa39c4470</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

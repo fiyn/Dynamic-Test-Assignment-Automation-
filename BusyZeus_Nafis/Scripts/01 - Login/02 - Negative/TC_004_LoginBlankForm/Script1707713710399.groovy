@@ -21,17 +21,17 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.urlAddress)
 
-WebUI.click(findTestObject('Login/Page_Busyzeus/a_Register Now'))
+WebUI.click(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/a_Register Now'))
 
-WebUI.click(findTestObject('Login/Page_Busyzeus/a_to Log In page'))
+WebUI.click(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/a_to Log In page'))
 
-WebUI.setText(findTestObject('Login/Page_Busyzeus/input_Email_email'), GlobalVariable.email)
+WebUI.click(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/button_Login'))
 
-WebUI.setEncryptedText(findTestObject('Login/Page_Busyzeus/input_Password_password'), GlobalVariable.password)
+WebUI.waitForElementVisible(findTestObject('01 - Login/TC_004_LoginBlankForm/Page_Busyzeus/div_Email is required'), 2)
 
-WebUI.click(findTestObject('Login/Page_Busyzeus/button_Login'))
+WebUI.verifyElementVisible(findTestObject('01 - Login/TC_004_LoginBlankForm/Page_Busyzeus/div_Email is required'))
 
-WebUI.waitForElementVisible(findTestObject('Login/Page_Busyzeus/div_Success  User logged in successfully'), 2)
+WebUI.waitForElementVisible(findTestObject('01 - Login/TC_004_LoginBlankForm/Page_Busyzeus/div_Password is required'), 2)
 
-WebUI.verifyElementVisible(findTestObject('Login/Page_Busyzeus/div_User logged in successfully'))
+WebUI.verifyElementVisible(findTestObject('01 - Login/TC_004_LoginBlankForm/Page_Busyzeus/div_Password is required'))
 

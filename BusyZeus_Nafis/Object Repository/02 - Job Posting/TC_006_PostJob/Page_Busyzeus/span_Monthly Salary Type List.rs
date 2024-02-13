@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Monthly Salary Type List</name>
+   <tag></tag>
+   <elementGuidId>bd1af8a6-f947-4953-8a69-dc2efa5af52a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-259 > span.mat-option-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = ' ${salaryType} ' or . = ' ${salaryType} ')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'mat-option-text' and (text() = '${salaryType}' or . = '${salaryType}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6241329e-9b18-4d3b-ae5e-f80886a1a54f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>0ddc0fea-6c08-473a-92be-1c5d970aa825</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${salaryType}</value>
+      <webElementGuid>7d7b7fa4-6a4b-4ee0-9e51-99907fc0a362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-259&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>88afbd22-80d8-4ded-94df-433e9ee6488b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-259']/span</value>
+      <webElementGuid>b12e3608-0b4c-4079-a704-b58eec6e75b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[2]/following::span[1]</value>
+      <webElementGuid>d13d474e-1c78-42a1-bea0-6261d2e4e7c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-259', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[2]</value>
+      <webElementGuid>774a78f4-7d27-4c16-8d1e-a90b75e75412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yearly'])[1]/preceding::span[1]</value>
+      <webElementGuid>92b36bba-5a8f-4d35-9bf5-eb017904406b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Monthly']/parent::*</value>
+      <webElementGuid>2fdf655e-56ef-4b16-92b6-56d55e041d4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[2]/span</value>
+      <webElementGuid>5dba1665-716e-486a-a716-a8ab0a2201fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Monthly ' or . = ' Monthly ')]</value>
+      <webElementGuid>f52bed85-c843-4de9-a706-2b02f1fcbcb8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Employer attempt to post a job without filling in mandatory fields</description>
+   <name>TC_008_PostJobBlank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c540237f-db1e-4cba-b18c-bca702029799</testCaseGuid>
+</TestCaseEntity>

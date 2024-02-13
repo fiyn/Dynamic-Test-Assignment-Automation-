@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_State  Location List</name>
+   <tag></tag>
+   <elementGuidId>9e859238-b1ad-47bf-addc-2d0dcd43d106</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-option-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class='mat-option-text'][normalize-space()='${state}'])[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${state}' or . = '${state}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4a3b791e-d3a4-4c93-b9c8-7bde61a39bb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>7d6d9b18-d983-4699-ae91-585dc99745e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${state}</value>
+      <webElementGuid>5bef1105-c1a7-473b-84ed-c2e7a826250e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-256&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>019dc7fd-7969-4237-a7fe-c04227a0745e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-256']/span</value>
+      <webElementGuid>e1aa0600-aa50-4994-ad6d-10bc595908ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-256', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[1]</value>
+      <webElementGuid>ba75e7a7-0cfe-4e35-b260-5deb437aa0e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::span[1]</value>
+      <webElementGuid>adabbbd8-d065-43f3-8cfc-c198663afbf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amnat Charoen'])[1]/preceding::span[1]</value>
+      <webElementGuid>d604cb0f-5dd1-4527-9184-752cb36ff26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ang Thong'])[1]/preceding::span[2]</value>
+      <webElementGuid>faaea226-087d-41d9-bafc-78cf0dc4bba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option/span</value>
+      <webElementGuid>4862a717-d697-43f0-b09d-2aa4429f3e0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'State' or . = 'State')]</value>
+      <webElementGuid>8d13388e-a68a-40b4-b3bc-33bf4533cedb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

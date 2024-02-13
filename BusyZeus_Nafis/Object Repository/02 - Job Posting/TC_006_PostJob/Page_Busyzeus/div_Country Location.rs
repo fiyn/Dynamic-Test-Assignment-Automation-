@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Country Location</name>
+   <tag></tag>
+   <elementGuidId>2f2357f9-e578-4ca4-b3bf-05abf1ddb6ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-select-value-95</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id = 'mat-select-value-95' and (text() = 'Country' or . = 'Country')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'Country' or . = 'Country')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>08b9e7ac-4154-4369-b83f-78d0cd64268b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-value ng-tns-c49-51</value>
+      <webElementGuid>4a982fbf-bec5-4f4f-bd4f-a64fa1be3ba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-select-value-95</value>
+      <webElementGuid>d6f5d395-966f-4c24-9ef2-8cc6a66390fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Country</value>
+      <webElementGuid>d1cf7c99-cd7b-42c0-bede-3ecb814a26db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-95&quot;)</value>
+      <webElementGuid>6d5528e4-4667-4305-ad2b-04449e983fe0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-95']</value>
+      <webElementGuid>cf2a793c-e1e7-471f-abc4-47e8c4689944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='country']/div/div</value>
+      <webElementGuid>6f5197b3-736b-46c9-9da7-b35187685718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location*'])[1]/following::div[5]</value>
+      <webElementGuid>f4cb058e-1da7-48d4-aa70-6797ca3c67b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::div[6]</value>
+      <webElementGuid>3511222d-a99a-4a57-86c2-8804985557aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/preceding::div[3]</value>
+      <webElementGuid>c3049f28-66d6-4ee6-87d2-23a10647e227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/mat-select/div/div</value>
+      <webElementGuid>8159ed6f-9dde-4f56-a1be-f23885e568a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'mat-select-value-95' and (text() = 'Country' or . = 'Country')]</value>
+      <webElementGuid>08bd558e-098f-4c34-883d-7c690c958f5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

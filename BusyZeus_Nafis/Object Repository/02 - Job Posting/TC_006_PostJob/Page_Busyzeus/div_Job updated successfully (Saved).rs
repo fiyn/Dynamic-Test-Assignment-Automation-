@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Job updated successfully (Saved)</name>
+   <tag></tag>
+   <elementGuidId>32bff081-7bbc-4ad0-9484-a7543117e529</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c36-35.toast-message.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>06c6d45c-d15a-4e3d-af78-327da9fbb6c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>c7ef64f7-6407-4e16-9a99-66d5eff6d66d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c36-35 toast-message ng-star-inserted</value>
+      <webElementGuid>f82ac970-7767-4057-868d-5faefa7fd9a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Job updated successfully.</value>
+      <webElementGuid>2a2fc05a-ef4c-4754-b215-12572492a9a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Job updated successfully. </value>
+      <webElementGuid>005626c5-8720-4f2c-9404-f2c9fcfca793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;ng-tns-c36-35 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-success&quot;]/div[@class=&quot;ng-tns-c36-35 toast-message ng-star-inserted&quot;]</value>
+      <webElementGuid>a9889f23-9b79-4561-a3a8-3d8d9bf9333b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div/div[2]</value>
+      <webElementGuid>28660d77-0b94-4bee-9dbe-4d326dbc4db9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/following::div[1]</value>
+      <webElementGuid>639d4f2c-ec90-4fb8-a465-03c97c2835a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Post'])[1]/following::div[5]</value>
+      <webElementGuid>888c5846-89f1-44fa-ae9e-d9f9ad093902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable Ginger'])[1]/preceding::div[2]</value>
+      <webElementGuid>5eef5d4e-f753-4945-9b9d-5edabf9b7cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Job updated successfully.']/parent::*</value>
+      <webElementGuid>30d2a63f-1db7-4b98-921b-2a465de2be7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div/div/div[2]</value>
+      <webElementGuid>ac2fb816-8305-495a-93ac-5f629077c871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Job updated successfully. ' or . = ' Job updated successfully. ')]</value>
+      <webElementGuid>f312dfd4-b18c-423d-be08-aa0dbb2f1289</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

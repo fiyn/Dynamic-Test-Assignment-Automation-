@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1 to 2 Years Experiences</name>
+   <tag></tag>
+   <elementGuidId>860ad191-98e7-45c1-ab73-50d3d3869ed5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-select-value-105</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-select[@id='experiences']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a335e1b3-1e07-4ba6-88db-1956444cfd81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-value ng-tns-c49-56</value>
+      <webElementGuid>304d5189-9a87-4e2c-ae5c-b737becb2321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-select-value-105</value>
+      <webElementGuid>e2e647ec-edc0-422d-9673-16e27dada0a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 to 2 Years</value>
+      <webElementGuid>bd35cc8f-dc8e-4b6e-9f56-14e1c1fc7c08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-105&quot;)</value>
+      <webElementGuid>95a190e8-70cb-4b00-84b7-a963d39553fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-105']</value>
+      <webElementGuid>a710de43-5ab1-49d6-b340-46ab15cb628a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='experiences']/div/div</value>
+      <webElementGuid>bb4e31a2-ea5d-4497-bfdd-bfbb6d455dd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='b) Experiences'])[1]/following::div[3]</value>
+      <webElementGuid>393b6fef-22b1-4061-95fb-396a2d397463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BCA'])[1]/following::div[6]</value>
+      <webElementGuid>b0d9f174-8577-41aa-8b24-9a7a2e2eb5a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='c) Skill Sets'])[1]/preceding::div[3]</value>
+      <webElementGuid>afb0183f-a6be-4778-95f4-79183651b6af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::div[4]</value>
+      <webElementGuid>594ec5f2-2a0f-470c-9e54-ed4d1f903a54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div[2]/div/mat-select/div/div</value>
+      <webElementGuid>0e21422c-2752-433a-8f41-9e401de0bcfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'mat-select-value-105' and (text() = '1 to 2 Years' or . = '1 to 2 Years')]</value>
+      <webElementGuid>2fcea67f-9007-4be8-a0c4-c0a183c452aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

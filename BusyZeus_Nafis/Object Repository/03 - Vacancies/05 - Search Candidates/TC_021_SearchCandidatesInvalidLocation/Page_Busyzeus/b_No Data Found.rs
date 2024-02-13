@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_No Data Found</name>
+   <tag></tag>
+   <elementGuidId>167718d9-e5ec-482e-ab4b-c2b93a0cffc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search_candidates']/app-vacancies-search-candidates/h4/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>ca14febc-478d-45a9-ba86-515b96d56512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No Data Found</value>
+      <webElementGuid>c89186d9-c4c8-43cb-96d8-6f5fe1b13d81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myTabContent&quot;)/div[@id=&quot;search_candidates&quot;]/app-vacancies-search-candidates[@class=&quot;ng-star-inserted&quot;]/h4[@class=&quot;ng-star-inserted&quot;]/b[1]</value>
+      <webElementGuid>933fb0dc-50d5-46ae-81b4-f68e78a1ee62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search_candidates']/app-vacancies-search-candidates/h4/b</value>
+      <webElementGuid>7275078e-12a2-49e8-9b0d-34bc724d0a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::b[1]</value>
+      <webElementGuid>df99f831-5573-41c0-8002-52d485d2fb03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/following::b[1]</value>
+      <webElementGuid>32cb83e9-4731-42eb-9258-00fd0db6852e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable Ginger'])[1]/preceding::b[1]</value>
+      <webElementGuid>e5ef9b33-9fb2-433b-98f5-9e137cb3ad06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No Data Found']/parent::*</value>
+      <webElementGuid>7e8e435b-c68e-40e2-935a-bf55368cfc83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>63faf867-044c-452a-b475-0abc93b27f81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'No Data Found' or . = 'No Data Found')]</value>
+      <webElementGuid>cf37d57c-5db4-44c8-a9b6-939d401886d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

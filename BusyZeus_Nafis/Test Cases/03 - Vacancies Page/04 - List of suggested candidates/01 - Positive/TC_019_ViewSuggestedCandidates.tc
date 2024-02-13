@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Employer views 'List of suggested candidates' tab</description>
+   <name>TC_019_ViewSuggestedCandidates</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51368709-562d-4876-8199-724148b2dd28</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a8c223f1-07f9-4371-aa84-3df86cf94a57</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Software Engineer'</defaultValue>
+      <description></description>
+      <id>a8c223f1-07f9-4371-aa84-3df86cf94a57</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+</TestCaseEntity>

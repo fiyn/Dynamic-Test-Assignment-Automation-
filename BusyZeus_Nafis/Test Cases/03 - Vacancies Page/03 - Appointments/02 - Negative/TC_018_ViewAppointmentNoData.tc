@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Employer views 'Appointments' tab that has no appointments</description>
+   <name>TC_018_ViewAppointmentNoData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a524c0f9-55e1-4d27-8b83-d71e2d7b9a48</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>82980987-bbb3-4cf7-a597-1a67fb8cc9c4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>82980987-bbb3-4cf7-a597-1a67fb8cc9c4</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+</TestCaseEntity>

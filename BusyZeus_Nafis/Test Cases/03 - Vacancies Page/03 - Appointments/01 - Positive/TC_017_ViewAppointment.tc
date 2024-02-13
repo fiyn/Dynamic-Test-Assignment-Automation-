@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Employer views 'Appointments' tab that has appointments</description>
+   <name>TC_017_ViewAppointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba422b9f-b60b-42f7-82ae-bb8bf8585975</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>82980987-bbb3-4cf7-a597-1a67fb8cc9c4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Data entry'</defaultValue>
+      <description></description>
+      <id>82980987-bbb3-4cf7-a597-1a67fb8cc9c4</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+</TestCaseEntity>

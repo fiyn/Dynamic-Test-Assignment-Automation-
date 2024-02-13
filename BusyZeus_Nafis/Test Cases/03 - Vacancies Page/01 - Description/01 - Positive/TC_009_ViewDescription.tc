@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Employer views 'Job Description' tab</description>
+   <name>TC_009_ViewDescription</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0bfea8a-4277-4d2c-98d8-b80426466ae7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cd3744cc-3b88-49b6-a65a-143e7384eaca</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Data entry'</defaultValue>
+      <description></description>
+      <id>cd3744cc-3b88-49b6-a65a-143e7384eaca</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+</TestCaseEntity>

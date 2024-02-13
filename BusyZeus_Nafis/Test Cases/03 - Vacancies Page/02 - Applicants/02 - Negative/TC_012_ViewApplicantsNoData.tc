@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Employer views the 'Applicants' tab that has no applicants</description>
+   <name>TC_012_ViewApplicantsNoData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eff2355d-b451-4d1b-b36d-85bfba25748c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>da942b4d-c115-4da3-b3fc-63734636af6b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Document Translator'</defaultValue>
+      <description></description>
+      <id>da942b4d-c115-4da3-b3fc-63734636af6b</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+</TestCaseEntity>

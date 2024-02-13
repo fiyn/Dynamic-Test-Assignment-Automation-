@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Personal Interview</name>
+   <tag></tag>
+   <elementGuidId>3f19a1d9-8289-4ee2-baa1-b5b21e93f933</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div/mat-select/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-select-value-165</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d430f22c-5a8e-45f3-b0a0-166636b57f8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-value ng-tns-c49-94</value>
+      <webElementGuid>dd22de61-85b6-4a71-8a6d-f6f89ad48fe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-select-value-165</value>
+      <webElementGuid>d525a81e-22b2-4152-8e2c-5615b357c0ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Personal Interview</value>
+      <webElementGuid>9705948f-52c4-4975-a6d7-3d93837f7f46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-165&quot;)</value>
+      <webElementGuid>c722c328-d535-4c11-bb44-e3bfa721a111</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-165']</value>
+      <webElementGuid>6787ddb0-f0aa-4965-af1c-a7e5d9316e68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='interview_type']/div/div</value>
+      <webElementGuid>5ca91f64-8e4d-4890-a700-7ad8a40de634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interview Type'])[1]/following::div[3]</value>
+      <webElementGuid>b3494c2c-baa8-4d61-8c96-73cfe7d6c13d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time'])[1]/following::div[5]</value>
+      <webElementGuid>bcf52999-2f76-4004-b17f-add1aef481d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Note'])[1]/preceding::div[3]</value>
+      <webElementGuid>00b6ebcf-cfca-4ac1-b498-61eff0a1a425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/mat-select/div/div</value>
+      <webElementGuid>e9c76925-bc7c-493c-90a7-f6c6d7139df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'mat-select-value-165' and (text() = 'Personal Interview' or . = 'Personal Interview')]</value>
+      <webElementGuid>33b43abd-a188-41d4-976f-dff09627f32a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

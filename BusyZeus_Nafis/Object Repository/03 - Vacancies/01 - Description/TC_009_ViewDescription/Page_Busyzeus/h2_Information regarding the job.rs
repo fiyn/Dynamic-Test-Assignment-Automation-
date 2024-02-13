@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Information regarding the job</name>
+   <tag></tag>
+   <elementGuidId>a8e77395-0724-4b60-adb2-98211b7219d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='job_description']/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.sub-headline</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>a68cb941-0d71-4e8c-b706-4ed300df7bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-headline</value>
+      <webElementGuid>da3e7ded-c0d3-4748-bf65-73375794a3b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Information regarding the job</value>
+      <webElementGuid>bd9c967d-43ed-4f9d-a796-de511520ee00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;job_description&quot;)/h2[@class=&quot;sub-headline&quot;]</value>
+      <webElementGuid>32af3394-2ff7-4af6-b7c5-010594511ce6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='job_description']/h2</value>
+      <webElementGuid>9b4b2ac5-5031-4020-ba57-eea95a1e502a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search candidates'])[1]/following::h2[1]</value>
+      <webElementGuid>fe4ef0e3-9d3b-4aae-b79e-04f5967964e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List of suggested candidates'])[1]/following::h2[1]</value>
+      <webElementGuid>24c8c814-d396-4c11-97e2-e89a7017fb46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Description'])[1]/preceding::h2[1]</value>
+      <webElementGuid>5a1ed5c3-7851-426e-b91b-4a942404ae4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::h2[1]</value>
+      <webElementGuid>95d9db4c-adc9-40b8-a157-c190f0ee4624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Information regarding the job']/parent::*</value>
+      <webElementGuid>ee28d5c3-82b0-4e4b-a19d-be10f4bbd224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/h2</value>
+      <webElementGuid>04a7114d-ff77-4914-8b5a-02c1d5fe3cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Information regarding the job' or . = 'Information regarding the job')]</value>
+      <webElementGuid>c970e936-bfac-49aa-a75f-464190f0c3b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

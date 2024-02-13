@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Permanent</name>
+   <tag></tag>
+   <elementGuidId>1fe2e2c2-f9e3-49c3-b551-b4118f678e0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Translator'])[2]/following::p[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f2e7bcdd-9728-47ea-8219-54529ddad80c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>company-other-data</value>
+      <webElementGuid>46a959c2-466b-4df8-b286-f1cd411282c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Permanent </value>
+      <webElementGuid>2e5d7e19-6252-45a8-afd3-6b5057b9e823</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-vacancies[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;job-managment-section&quot;]/div[@class=&quot;row gx-0&quot;]/div[@class=&quot;col-lg-8 ng-star-inserted&quot;]/app-vacancies-view[1]/div[@class=&quot;responsive-design ng-star-inserted&quot;]/div[@class=&quot;responsive-content-set&quot;]/div[@class=&quot;content-flex&quot;]/div[@class=&quot;content-flex-col-1&quot;]/div[@class=&quot;company-details&quot;]/div[@class=&quot;row gx-0 align-items-center&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;company-data&quot;]/div[@class=&quot;company-all-data&quot;]/div[@class=&quot;company-all-data-col&quot;]/p[@class=&quot;company-other-data&quot;]</value>
+      <webElementGuid>28589974-45f6-440f-ac3c-33e032e913d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Translator'])[2]/following::p[7]</value>
+      <webElementGuid>9723b3ff-01de-4f5c-84b8-cb6a54dd9fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data entry'])[1]/following::p[9]</value>
+      <webElementGuid>f9bc812c-6f21-4a6f-b6b2-3ae7139678f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::p[3]</value>
+      <webElementGuid>c25878f8-5406-4d8c-96c7-0d450a0ffe26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[1]/preceding::p[4]</value>
+      <webElementGuid>05be18c7-bf9c-4853-8ea6-9b76fda88a58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Permanent']/parent::*</value>
+      <webElementGuid>b6b03756-0bf6-455d-aebc-3b58f54ab016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[5]</value>
+      <webElementGuid>be1ddbdb-235e-4d4b-b48b-268c5289aa76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Permanent ' or . = ' Permanent ')]</value>
+      <webElementGuid>d98c20c7-9c92-48cb-a2f6-4bbba9a054dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

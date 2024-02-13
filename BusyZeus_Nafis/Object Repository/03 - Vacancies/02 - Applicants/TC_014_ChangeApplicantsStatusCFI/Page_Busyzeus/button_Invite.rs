@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Invite</name>
+   <tag></tag>
+   <elementGuidId>94c0920a-3efa-477c-93cf-113ad5f82813</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.border-0.py-2.w-100px.border-radius-7.font-18</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>df2b7c35-f966-4fb2-be89-75c4896ddb2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>13051a4e-1223-4bbe-9f4a-6544add2f15b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary border-0 py-2 w-100px border-radius-7 font-18</value>
+      <webElementGuid>27ce7de1-4415-4da0-9ed2-8f242125f989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Invite </value>
+      <webElementGuid>843be709-57d2-4be7-a20a-b975e3791979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;applicants&quot;)/app-vacancies-applicants[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;call-for-interview-section employe-modal ng-star-inserted&quot;]/div[@class=&quot;position-relative modal-overlay-custom&quot;]/div[@class=&quot;call-for-interview-box&quot;]/form[@class=&quot;ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4&quot;]/button[@class=&quot;btn btn-primary border-0 py-2 w-100px border-radius-7 font-18&quot;]</value>
+      <webElementGuid>bf66708e-9626-451b-8cec-e100bc9bff64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>94de76e3-e865-4ef3-9216-06b0621dd3b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='applicants']/app-vacancies-applicants/div[2]/div/div/form/div/div[5]/button</value>
+      <webElementGuid>80908196-3af6-4ae2-ab09-4accec300803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Note'])[1]/following::button[1]</value>
+      <webElementGuid>5d2a421d-1137-453e-a55a-db488208a1ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Interview'])[1]/following::button[1]</value>
+      <webElementGuid>472d500c-f4f5-42e2-8de6-16844fd3e3ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable Ginger'])[1]/preceding::button[2]</value>
+      <webElementGuid>bdcf5662-8a8b-40c9-a99d-348b30066027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button</value>
+      <webElementGuid>efc15d57-4621-421f-8aa5-1fdf9d7529fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = ' Invite ' or . = ' Invite ')]</value>
+      <webElementGuid>275c101a-7fcb-47c8-9bdd-58b21576d7c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

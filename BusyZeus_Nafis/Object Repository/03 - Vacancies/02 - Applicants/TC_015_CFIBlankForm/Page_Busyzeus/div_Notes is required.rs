@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Notes is required</name>
+   <tag></tag>
+   <elementGuidId>a36f6d59-e35d-4d48-a8f0-934fcb1731e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='applicants']/app-vacancies-applicants/div[2]/div/div/form/div/div[5]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>817e7ff1-160d-4ad3-a913-c8b298a50ee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>bdc45317-710b-4696-8415-d13cf4b18210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Notes is required </value>
+      <webElementGuid>a8928f6b-5b3c-4307-838a-a932b2423a3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;applicants&quot;)/app-vacancies-applicants[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;call-for-interview-section employe-modal ng-star-inserted&quot;]/div[@class=&quot;position-relative modal-overlay-custom&quot;]/div[@class=&quot;call-for-interview-box&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty ng-submitted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[1]/div[@class=&quot;text-danger ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>445f175f-6527-4d40-85f5-7d6b7e7f05a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='applicants']/app-vacancies-applicants/div[2]/div/div/form/div/div[5]/div/div/div</value>
+      <webElementGuid>1e054091-e798-4e45-b802-18ddb004b007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Note'])[1]/following::div[2]</value>
+      <webElementGuid>376b0261-178c-4b3a-a8f9-d1b6bc9efac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Link is required'])[1]/following::div[4]</value>
+      <webElementGuid>5e85857a-1339-46cf-aaf3-c2483b641242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invite'])[1]/preceding::div[1]</value>
+      <webElementGuid>3af6598d-a72d-422a-a8ea-1a120cec905c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable Ginger'])[1]/preceding::div[6]</value>
+      <webElementGuid>c8021b21-edc3-4523-9eef-b9a52eeb1c3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Notes is required']/parent::*</value>
+      <webElementGuid>9a00041f-c8a9-4cbd-9ff6-f9d31616a5e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div</value>
+      <webElementGuid>13b34f7a-e6fe-475d-96ad-abb28d44cb3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Notes is required ' or . = ' Notes is required ')]</value>
+      <webElementGuid>934f00a9-9717-4166-9829-42c963db7a28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

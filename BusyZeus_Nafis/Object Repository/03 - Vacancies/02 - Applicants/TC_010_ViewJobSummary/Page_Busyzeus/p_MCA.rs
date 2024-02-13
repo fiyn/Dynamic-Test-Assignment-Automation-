@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_MCA</name>
+   <tag></tag>
+   <elementGuidId>42e2b20e-762a-462a-82d9-3667479c02a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Translator'])[2]/following::p[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>35f3a01b-950f-447c-be76-466bd6e58df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>company-other-data</value>
+      <webElementGuid>94fa6b32-15c9-409b-a5a8-8b7d7f8757bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MCA </value>
+      <webElementGuid>6b3c0def-ef57-42cb-bc51-aefa62fd146a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-vacancies[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;job-managment-section&quot;]/div[@class=&quot;row gx-0&quot;]/div[@class=&quot;col-lg-8 ng-star-inserted&quot;]/app-vacancies-view[1]/div[@class=&quot;responsive-design ng-star-inserted&quot;]/div[@class=&quot;responsive-content-set&quot;]/div[@class=&quot;content-flex&quot;]/div[@class=&quot;content-flex-col-1&quot;]/div[@class=&quot;company-details&quot;]/div[@class=&quot;row gx-0 align-items-center&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;company-data&quot;]/div[@class=&quot;company-all-data&quot;]/div[@class=&quot;company-all-data-col&quot;]/p[@class=&quot;company-other-data&quot;]</value>
+      <webElementGuid>c46388c0-3034-4b71-a923-d167ef309afe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Translator'])[2]/following::p[9]</value>
+      <webElementGuid>3f6138b9-8439-45bd-b3ad-8e6612d38511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data entry'])[1]/following::p[11]</value>
+      <webElementGuid>66e64380-8772-475f-bcde-7be6a2487a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::p[1]</value>
+      <webElementGuid>f64c8a8d-3ba3-4530-be76-e9ddf295a7b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[1]/preceding::p[2]</value>
+      <webElementGuid>53c2cc79-ffeb-44f5-9b5c-5249056801a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MCA']/parent::*</value>
+      <webElementGuid>c988f2e7-eab1-4689-ba7f-7cb4afb4c785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[7]</value>
+      <webElementGuid>b1eb257b-181c-4394-89fb-902f1ac4cc81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' MCA ' or . = ' MCA ')]</value>
+      <webElementGuid>a30a6d18-2c7b-42cc-8bce-dbda2c402408</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

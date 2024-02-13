@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_011_ViewApplicants</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7598971f-419d-40ed-83b8-9b985646adc6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>09676faa-d540-4437-978c-81544f5fd98b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Data entry'</defaultValue>
+      <description></description>
+      <id>09676faa-d540-4437-978c-81544f5fd98b</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+</TestCaseEntity>

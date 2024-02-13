@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Employer downloads resume from one of the applicants</description>
+   <name>TC_016_DownloadResume</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3bc6211e-a5f5-470d-9cf2-7a2b9396e656</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fe12a83e-9ae0-4bfb-9d75-650f5ad7edec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Data entry'</defaultValue>
+      <description></description>
+      <id>fe12a83e-9ae0-4bfb-9d75-650f5ad7edec</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+</TestCaseEntity>

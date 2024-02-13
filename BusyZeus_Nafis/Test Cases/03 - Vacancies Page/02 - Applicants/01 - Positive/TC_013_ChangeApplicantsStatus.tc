@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Employer change  the applicants 'Job Offered','MIA', or 'Rejected' status</description>
+   <name>TC_013_ChangeApplicantsStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bae6e0a2-7801-4691-8d36-98dce896f8f4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c453b060-a77b-4ebc-9401-ea0437334ce5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ea9fa91-eb02-4f97-869f-018138a8d500</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d98c89fa-61ed-4c27-9168-1c4a7343b902</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Data entry'</defaultValue>
+      <description></description>
+      <id>c453b060-a77b-4ebc-9401-ea0437334ce5</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Abu Ali'</defaultValue>
+      <description></description>
+      <id>6ea9fa91-eb02-4f97-869f-018138a8d500</id>
+      <masked>false</masked>
+      <name>applicants</name>
+   </variable>
+   <variable>
+      <defaultValue>'Job Offered'</defaultValue>
+      <description></description>
+      <id>d98c89fa-61ed-4c27-9168-1c4a7343b902</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+</TestCaseEntity>

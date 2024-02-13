@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Employer views summary of an active job posting</description>
+   <name>TC_010_ViewJobSummary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e5f6f56-2f7a-4a2e-a506-4134edf1c9b8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ee92115-afff-4df3-954c-75b169de43f1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>7ee92115-afff-4df3-954c-75b169de43f1</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+</TestCaseEntity>

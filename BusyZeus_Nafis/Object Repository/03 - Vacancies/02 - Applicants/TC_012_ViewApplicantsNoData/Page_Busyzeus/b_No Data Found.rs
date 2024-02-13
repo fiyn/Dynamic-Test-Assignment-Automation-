@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_No Data Found</name>
+   <tag></tag>
+   <elementGuidId>aac7f313-32e0-44ee-b0b6-2f019130b57b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//b[(text() = 'No Data Found' or . = 'No Data Found')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>3e7a703c-4927-4c5e-a4ae-2d07c0ca2a7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No Data Found</value>
+      <webElementGuid>b70696ca-418d-473a-9172-05d4593ad2d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;applicants&quot;)/app-vacancies-applicants[@class=&quot;ng-star-inserted&quot;]/h4[@class=&quot;ng-star-inserted&quot;]/b[1]</value>
+      <webElementGuid>35c7d86b-013e-425e-b77f-45b85fbbc436</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='applicants']/app-vacancies-applicants/h4/b</value>
+      <webElementGuid>295b868b-ef62-404e-86d1-08b815181c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fast Learner'])[1]/following::b[1]</value>
+      <webElementGuid>0776e968-4082-43c8-8433-787187164db8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skill Sets'])[1]/following::b[1]</value>
+      <webElementGuid>624eef6d-1048-43b0-a18d-5ad8dc9d7cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable Ginger'])[1]/preceding::b[1]</value>
+      <webElementGuid>842236b0-0c28-49ed-b1c1-8bed5746c1de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No Data Found']/parent::*</value>
+      <webElementGuid>b867a08e-1288-475f-b523-5873a249dcc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>1241d75f-596b-4620-be93-1b24cc7e37a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'No Data Found' or . = 'No Data Found')]</value>
+      <webElementGuid>cfbd8821-a63c-45a1-95a3-dac3a75a12d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

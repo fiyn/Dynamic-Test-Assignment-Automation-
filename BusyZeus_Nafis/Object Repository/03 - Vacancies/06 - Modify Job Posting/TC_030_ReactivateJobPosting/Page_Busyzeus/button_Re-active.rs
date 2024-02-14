@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_X close pop up</name>
+   <name>button_Re-active</name>
    <tag></tag>
-   <elementGuidId>07b32a6c-ab7b-444f-9255-d5d510c2e51e</elementGuidId>
+   <elementGuidId>b19b2a5c-63a6-41c6-bbf0-96563b41bddb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#notification_close</value>
+         <value>button.common-btn.edi-btn.btn.ng-star-inserted</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id = 'notification_close' and (text() = ' X ' or . = ' X ')]</value>
+         <value>(//button[@type='button'])[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>40474f16-0fd4-4d71-bbae-51318abfce03</webElementGuid>
+      <value>button</value>
+      <webElementGuid>19a843fe-4d82-49e4-8442-3b5ea71b468f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>type</name>
       <type>Main</type>
-      <value>notification_close</value>
-      <webElementGuid>805b8f93-b73d-4f1d-932e-8e674708659d</webElementGuid>
+      <value>button</value>
+      <webElementGuid>bdd770ed-f928-4858-9ffb-5a866423bd4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>close-text</value>
-      <webElementGuid>431e4568-ea61-48c3-aa10-be7c1ab6259f</webElementGuid>
+      <value>common-btn edi-btn btn ng-star-inserted</value>
+      <webElementGuid>6722473b-ec4a-466c-be5d-64a259501d54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> X </value>
-      <webElementGuid>8b5071ff-3000-43e1-9db3-75645cdca180</webElementGuid>
+      <value> Re-active </value>
+      <webElementGuid>8b4f6014-7877-4c20-98b4-41c4f880e782</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;notification_close&quot;)</value>
-      <webElementGuid>a0fac4bf-69b1-4b3f-8024-cc758a3b686b</webElementGuid>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-job-posting-edit[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;job-posting-page&quot;]/div[@class=&quot;container-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-8&quot;]/div[@class=&quot;posting-form&quot;]/form[@class=&quot;ng-valid ng-dirty ng-touched ng-submitted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 posting-col&quot;]/div[@class=&quot;btn-part&quot;]/button[@class=&quot;common-btn edi-btn btn ng-star-inserted&quot;]</value>
+      <webElementGuid>cc16c991-b865-44dd-9cc8-b9c4c5591793</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='notification_close']</value>
-      <webElementGuid>83932f6f-33ae-46f8-8ec7-fb3387a84072</webElementGuid>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>e0544615-aef6-4a23-94af-789c5e260f09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='closed'])[1]/following::div[1]</value>
-      <webElementGuid>0c7ec8f1-e0d3-417d-a867-848349274a6a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Post'])[1]/following::button[1]</value>
+      <webElementGuid>1e9f266e-6ff8-4c50-aafd-786007cd87e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::div[3]</value>
-      <webElementGuid>ccbb00cd-01e8-4ec7-baf2-8a28ff87a400</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::button[2]</value>
+      <webElementGuid>76935b15-8378-4f43-b526-fd9e786e7f15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/preceding::div[3]</value>
-      <webElementGuid>04bfdee8-4d58-4860-8fa4-10c66734a069</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable Ginger'])[1]/preceding::button[1]</value>
+      <webElementGuid>45f2dfc5-7017-4646-a013-c33e26f22368</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='X']/parent::*</value>
-      <webElementGuid>82114711-b1e0-49f8-a8d9-8cdd1ac71f72</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Re-active']/parent::*</value>
+      <webElementGuid>b7c9f8f0-d9fd-452b-a74d-83bf8f097296</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div</value>
-      <webElementGuid>14538e48-720e-4cde-a2c0-b0711a7e8a74</webElementGuid>
+      <value>//button[3]</value>
+      <webElementGuid>fb2552fc-474d-4f44-a9f5-f8935e269fa4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[@id = 'notification_close' and (text() = ' X ' or . = ' X ')]</value>
-      <webElementGuid>a02e77a3-2537-4942-aec8-3c763c163a78</webElementGuid>
+      <value>//button[@type = 'button' and (text() = ' Re-active ' or . = ' Re-active ')]</value>
+      <webElementGuid>f2eafa28-5859-4c3a-bcd7-5ca24bfea45c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

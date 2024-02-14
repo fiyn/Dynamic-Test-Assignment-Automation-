@@ -15,7 +15,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='status1']</value>
+         <value>//input[@type = 'radio' and @name = 'status' and @id = '${status}']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>56bac2c4-cc62-4442-a24c-adeabc1bd149</webElementGuid>
+      <webElementGuid>c0374256-dc6c-4426-9f50-9dbe8b570b53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>be0fec4b-b107-49ca-85b6-6252cfadb8ad</webElementGuid>
+      <webElementGuid>af611f80-2284-440d-a849-e2718fc06f6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>status</value>
-      <webElementGuid>6304c611-7231-41e6-9987-1d0c440572c3</webElementGuid>
+      <webElementGuid>a05430eb-deac-4a75-a1b5-5234d0ee4e12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>status</value>
-      <webElementGuid>3dfb5476-04d2-49a4-af5f-8baaca455ada</webElementGuid>
+      <webElementGuid>9872edce-859b-433f-84fe-c6e0848e7f97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>status2</value>
-      <webElementGuid>3564e75f-9219-4c61-a950-31f4a5bd13e1</webElementGuid>
+      <webElementGuid>b3f747cd-658c-46cf-b5cd-fb3693c3630d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>value</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>7d7637b2-6753-4076-b371-ddc0d6fbd751</webElementGuid>
+      <webElementGuid>63d0a101-a9b6-413a-a5c2-376e2647801d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-input custom-check-input ng-dirty ng-valid ng-touched</value>
-      <webElementGuid>b7eba952-785c-4c3b-afb9-4b724320b304</webElementGuid>
+      <webElementGuid>93c39eac-4663-4a99-bbcb-339017753e9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;status2&quot;)</value>
-      <webElementGuid>820afdf8-e2d6-44be-98c7-b2f67e273857</webElementGuid>
+      <webElementGuid>bcc727b7-acc0-405d-b9dc-d7c768aba29e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='status2']</value>
-      <webElementGuid>7d30bb3d-15ab-426c-b969-e14f7ff99f91</webElementGuid>
+      <webElementGuid>6b9e1188-f80a-49bf-a33e-a85e08cb4cd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div[2]/div/input</value>
-      <webElementGuid>4ee7d860-7598-4911-a4f6-e7d50567915b</webElementGuid>
+      <webElementGuid>7ac836e9-4af1-4cd9-9e73-4df3a6732e7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @name = 'status' and @id = 'status2']</value>
-      <webElementGuid>a35d50cf-be34-47c4-9e50-3cb53d8ee7a1</webElementGuid>
+      <webElementGuid>b995c6c7-e253-4495-9f37-bf0a089fc9cc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

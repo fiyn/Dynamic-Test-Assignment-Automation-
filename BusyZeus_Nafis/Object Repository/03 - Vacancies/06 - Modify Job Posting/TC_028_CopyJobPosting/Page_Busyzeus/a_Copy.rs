@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Copy</name>
+   <tag></tag>
+   <elementGuidId>8f041ae7-7db9-4399-8a62-55249bc690f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Copy')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a4c6ca68-cc58-4305-bf17-03318d6fa829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary border-0 w-100px border-radius-10 font-14</value>
+      <webElementGuid>f74efc3c-f5b3-4297-ae60-36a58f740ce5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copy</value>
+      <webElementGuid>912db968-27be-41eb-8568-5a8f75afe928</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-vacancies[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;job-managment-section&quot;]/div[@class=&quot;row gx-0&quot;]/div[@class=&quot;col-lg-8 ng-star-inserted&quot;]/app-vacancies-view[1]/div[@class=&quot;responsive-design ng-star-inserted&quot;]/div[@class=&quot;responsive-content-set&quot;]/div[@class=&quot;content-flex&quot;]/div[@class=&quot;content-flex-col-1&quot;]/div[@class=&quot;company-details&quot;]/div[@class=&quot;row gx-0 align-items-center&quot;]/div[@class=&quot;col-sm-4&quot;]/p[@class=&quot;text-end d-sm-block d-inline-block mb-2&quot;]/a[@class=&quot;btn btn-primary border-0 w-100px border-radius-10 font-14&quot;]</value>
+      <webElementGuid>ff2b52b6-c0b9-4d51-898f-f3e3aa9ed0a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Copy')]</value>
+      <webElementGuid>7b5a1156-e4d6-4fbc-87c6-745f12ba8ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::a[1]</value>
+      <webElementGuid>e4a824d4-4ad7-4fb2-98ef-01db114e4874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Translator'])[2]/following::a[2]</value>
+      <webElementGuid>3972b062-4186-4954-bf76-9a84c17e7142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job description'])[1]/preceding::a[1]</value>
+      <webElementGuid>e8571188-2846-4215-99a3-3ebebbc6ca09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicants'])[1]/preceding::a[1]</value>
+      <webElementGuid>2fc81b4a-ab94-4456-883a-d5378ab37c64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Copy']/parent::*</value>
+      <webElementGuid>0383acc7-8111-45ee-bf99-2d77eec9c9fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/a</value>
+      <webElementGuid>9afdf7e2-8c3b-44d3-b1ae-85998d58f021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Copy' or . = 'Copy')]</value>
+      <webElementGuid>17c10b65-af04-4277-9d69-8a1f30d26aa2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

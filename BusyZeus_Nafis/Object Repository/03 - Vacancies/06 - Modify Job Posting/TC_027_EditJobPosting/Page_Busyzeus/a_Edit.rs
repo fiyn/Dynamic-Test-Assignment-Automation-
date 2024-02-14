@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit</name>
+   <tag></tag>
+   <elementGuidId>a98378c4-60a8-4a30-b61a-5c471f6807dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.border-0.w-100px.border-radius-10.font-14</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = '/job-posting-edit/6' and (text() = 'Edit' or . = 'Edit')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>68193f92-a5d1-4bd1-80fa-51254caa36e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary border-0 w-100px border-radius-10 font-14</value>
+      <webElementGuid>93b28b3a-de8e-4119-8a34-53ef047a7fd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/job-posting-edit/6</value>
+      <webElementGuid>21b76a2a-2db4-4af7-8fdf-9ea4907d1243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>34cd9b38-2de2-4f98-a1ba-5d8d38205f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-vacancies[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;job-managment-section&quot;]/div[@class=&quot;row gx-0&quot;]/div[@class=&quot;col-lg-8 ng-star-inserted&quot;]/app-vacancies-view[1]/div[@class=&quot;responsive-design ng-star-inserted&quot;]/div[@class=&quot;responsive-content-set&quot;]/div[@class=&quot;content-flex&quot;]/div[@class=&quot;content-flex-col-1&quot;]/div[@class=&quot;company-details&quot;]/div[@class=&quot;row gx-0 align-items-center&quot;]/div[@class=&quot;col-sm-4&quot;]/p[@class=&quot;text-end d-sm-block d-inline-block mb-2&quot;]/a[@class=&quot;btn btn-primary border-0 w-100px border-radius-10 font-14&quot;]</value>
+      <webElementGuid>1073657c-04aa-4a52-8a7c-b9379871f2a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Edit')])[2]</value>
+      <webElementGuid>a6df2c25-a794-42e8-86b2-d23c954d6b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data entry'])[2]/following::a[1]</value>
+      <webElementGuid>97926a33-d961-4526-b1de-52d7f18acbf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data entry'])[1]/following::a[2]</value>
+      <webElementGuid>a5cf9635-3bf9-461d-820c-4ccec1f09663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[1]/preceding::a[1]</value>
+      <webElementGuid>3bbb1aa2-c6a4-4fe5-8cc1-c5773be6b5c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job description'])[1]/preceding::a[2]</value>
+      <webElementGuid>c22036ae-3712-4aa3-909d-93f73037568f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit']/parent::*</value>
+      <webElementGuid>5e0cfd0b-cbba-43b5-9ee0-67ddd73ecf66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/job-posting-edit/6')])[2]</value>
+      <webElementGuid>f574fcb4-4ed0-4128-a16a-39649113d3d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>551736ed-fb81-4166-8afb-1c2bea1ec82f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/job-posting-edit/6' and (text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>b314ba54-488c-43fe-a614-aab959d1ff7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

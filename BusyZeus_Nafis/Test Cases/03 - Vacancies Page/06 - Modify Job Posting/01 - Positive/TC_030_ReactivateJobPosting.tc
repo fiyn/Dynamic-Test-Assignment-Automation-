@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Employer reactivate a closed job posting</description>
+   <name>TC_030_ReactivateJobPosting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>991b99ad-555c-4ffa-b04c-2570d5f3ec7e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c80a9567-2f33-4c20-8dee-37005e3696bf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Personal Shopper'</defaultValue>
+      <description></description>
+      <id>c80a9567-2f33-4c20-8dee-37005e3696bf</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+</TestCaseEntity>

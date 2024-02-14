@@ -31,7 +31,18 @@ WebUI.setEncryptedText(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/inp
 
 WebUI.click(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/button_Login'))
 
-WebUI.waitForElementVisible(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/div_Success  User logged in successfully'), 2)
+WebUI.waitForElementVisible(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/div_Success  User logged in successfully'), 
+    2)
 
 WebUI.verifyElementVisible(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/div_User logged in successfully'))
+
+isOpened = WebUI.verifyElementVisible(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/div_X close pop up'), FailureHandling.STOP_ON_FAILURE)
+
+if (isOpened) {
+    WebUI.click(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/div_X close pop up'))
+
+    WebUI.delay(1)
+} else {
+    WebUI.delay(1)
+}
 

@@ -17,33 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl(GlobalVariable.urlAddress)
-
-WebUI.click(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/a_Register Now'))
-
-WebUI.click(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/a_to Log In page'))
-
-WebUI.setText(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/input_Email_email'), GlobalVariable.email)
-
-WebUI.setEncryptedText(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/input_Password_password'), GlobalVariable.password)
-
-WebUI.click(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/button_Login'))
-
-WebUI.waitForElementVisible(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/div_Success  User logged in successfully'), 
-    2)
-
-WebUI.verifyElementVisible(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/div_User logged in successfully'))
-
-not_run: isOpened = WebUI.verifyElementVisible(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/div_X close pop up'), 
+WebUI.callTestCase(findTestCase('03 - Vacancies Page/02 - Applicants/01 - Positive/TC_010_ViewJobSummary'), [('jobTitle') : jobTitle], 
     FailureHandling.STOP_ON_FAILURE)
 
-not_run: if (isOpened) {
-    WebUI.click(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/div_X close pop up'))
+WebUI.maximizeWindow()
 
-    WebUI.delay(1)
-} else {
-    WebUI.delay(1)
-}
+WebUI.setText(findTestObject('03 - Vacancies/07 - Job Posting Expired Message/Page_Busyzeus/input_X_hired_candidates'), 
+    hiringNumber)
+
+WebUI.click(findTestObject('03 - Vacancies/07 - Job Posting Expired Message/Page_Busyzeus/button_Save'))
+
+WebUI.verifyElementVisible(findTestObject('03 - Vacancies/07 - Job Posting Expired Message/Page_Busyzeus/div_Hired candidates count saved successfully'))
 

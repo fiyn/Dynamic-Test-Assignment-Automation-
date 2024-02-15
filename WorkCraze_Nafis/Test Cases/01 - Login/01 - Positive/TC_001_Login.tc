@@ -5,4 +5,17 @@
    <tag>positive, login</tag>
    <comment></comment>
    <testCaseGuid>47ffdb64-0648-480a-927d-0457ce6f1248</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3bd0de28-c9fc-4182-9c28-f49caf9dc52b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>3bd0de28-c9fc-4182-9c28-f49caf9dc52b</id>
+      <masked>false</masked>
+      <name>isOpened</name>
+   </variable>
 </TestCaseEntity>

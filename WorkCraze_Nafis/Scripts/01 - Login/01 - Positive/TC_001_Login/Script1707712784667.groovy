@@ -39,10 +39,12 @@ WebUI.verifyElementVisible(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus
 not_run: isOpened = WebUI.verifyElementVisible(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/div_X close pop up'), 
     FailureHandling.STOP_ON_FAILURE)
 
-not_run: if (isOpened) {
-    WebUI.click(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/div_X close pop up'))
+isOpened = WebUI.verifyElementPresent(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/div_X close pop up'), 0, FailureHandling.OPTIONAL)
 
-    WebUI.delay(1)
+println(isOpened)
+
+if (isOpened) {
+    WebUI.click(findTestObject('01 - Login/TC_001_Login/Page_Busyzeus/div_X close pop up'))
 } else {
     WebUI.delay(1)
 }

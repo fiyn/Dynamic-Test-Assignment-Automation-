@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Employer sorts job posting  by 'Contract Type'</description>
+   <name>TC_034_SortByContract</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58747dcf-9dd8-4873-84b1-2c9585547024</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dcb54447-9f29-4796-b338-38338b846c55</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Contract'</defaultValue>
+      <description></description>
+      <id>dcb54447-9f29-4796-b338-38338b846c55</id>
+      <masked>false</masked>
+      <name>contractType</name>
+   </variable>
+</TestCaseEntity>

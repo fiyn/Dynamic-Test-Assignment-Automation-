@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='visa1']</value>
+         <value>(//input[@id='${visaSupportIs}'])[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e8525fb1-12a9-4213-a546-9f322aa6d848</webElementGuid>
+      <webElementGuid>b03b63c2-a3c1-47a4-85f4-776c2ef85b58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>2f874f10-84dc-42e2-ae16-41dd705b684e</webElementGuid>
+      <webElementGuid>3ab36d82-e72a-4b9e-8f7e-42ddc0aadfeb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>is_visa_support</value>
-      <webElementGuid>c87892d5-bb43-4d57-918e-6441e74b7547</webElementGuid>
+      <webElementGuid>c9e89233-1bd8-444d-be9a-cfa807a094a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>is_visa_support</value>
-      <webElementGuid>bd69aa72-8793-482c-826d-1eafa8a6d399</webElementGuid>
+      <webElementGuid>ca3dcc5b-108f-47dc-af1c-95e8780b39f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>visa1</value>
-      <webElementGuid>29c6fe2a-5739-4a8b-96eb-1b744cd79c4c</webElementGuid>
+      <webElementGuid>fd70b138-ed16-4171-811d-143ea194fbdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>65454a04-849f-4832-8462-c70e8152c836</webElementGuid>
+      <webElementGuid>b33e0af4-f45a-4a2b-856b-b7b8ae3c4c69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-input custom-check-input ng-valid ng-dirty ng-touched</value>
-      <webElementGuid>f616ff1b-d46a-4545-95ec-7270863055e1</webElementGuid>
+      <webElementGuid>437ea22c-f959-4be0-85f7-5975be9aabc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;visa1&quot;)</value>
-      <webElementGuid>55b27baf-8398-496d-8f96-47872b4deb9d</webElementGuid>
+      <webElementGuid>63584a17-b419-49a4-b042-4659b4fead3c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='visa1']</value>
-      <webElementGuid>4a304dd7-759a-45f8-905a-1a01b3aa4b8e</webElementGuid>
+      <webElementGuid>79129839-8357-4ef1-8d4c-2dd208a61b55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[12]/div/div/div/input</value>
-      <webElementGuid>e3a54853-549f-466f-b43b-84bbe2721abb</webElementGuid>
+      <webElementGuid>c8a9b94f-7e6a-4c26-b0ab-66b833ba3a6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @name = 'is_visa_support' and @id = 'visa1']</value>
-      <webElementGuid>323df328-f241-462e-8669-f805e3c6b2b3</webElementGuid>
+      <webElementGuid>4946f372-e47a-4803-93fd-dc2424b02596</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

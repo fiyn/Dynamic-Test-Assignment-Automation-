@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Employer sorts job posting  by 'Status'</description>
+   <name>TC_033_SortByStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb59aea3-dd92-45c5-924b-a1bdf2fcec6e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2a47e6bc-7852-4967-9dea-7b659102123e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Active'</defaultValue>
+      <description></description>
+      <id>2a47e6bc-7852-4967-9dea-7b659102123e</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+</TestCaseEntity>

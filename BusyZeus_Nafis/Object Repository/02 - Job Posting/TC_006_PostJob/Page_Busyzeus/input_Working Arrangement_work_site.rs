@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@id='engagement1'])[6]</value>
+         <value>(//input[@id='engagement1'])[${workingModeIs}]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>89a49880-b309-46b9-9e79-824e3d07b390</webElementGuid>
+      <webElementGuid>3840e392-45dd-4f41-b533-6caa1edb3dc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>work_site</value>
-      <webElementGuid>a6d96ba8-4eba-42a9-a15f-6db45cb8b9a3</webElementGuid>
+      <webElementGuid>4f371a27-543c-43f1-841e-ee6c7fc1eeba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>947ec4d9-a136-4cd5-8917-2a4adb6208ee</webElementGuid>
+      <webElementGuid>0855eb64-5541-4474-9f57-abf074ce3604</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>work_site</value>
-      <webElementGuid>127767cf-4151-4d0c-a2d1-f8d399c20d9e</webElementGuid>
+      <webElementGuid>7dc39b44-5696-4038-aec0-17c275257d40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>engagement1</value>
-      <webElementGuid>62fde484-a80f-4a20-b4c4-95791fc35438</webElementGuid>
+      <webElementGuid>094f7684-ed0b-489b-832c-507d8ca5fd67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-input custom-check-input ng-untouched ng-valid ng-dirty</value>
-      <webElementGuid>aa49e0b1-4124-48ae-b449-c7aa349843ff</webElementGuid>
+      <webElementGuid>755f562f-59f2-41c9-a91b-2b72810f8e14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-job-posting[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;job-posting-page&quot;]/div[@class=&quot;container-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-8&quot;]/div[@class=&quot;posting-form&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 posting-col&quot;]/div[@class=&quot;radio-flex d-flex&quot;]/div[@class=&quot;radio-grid ng-star-inserted&quot;]/div[@class=&quot;form-check custom-form-check position-relative&quot;]/input[@id=&quot;engagement1&quot;]</value>
-      <webElementGuid>da01bacd-b008-4df0-8c5d-8547329dd98c</webElementGuid>
+      <webElementGuid>ce38875a-18a6-42d9-9959-88c1845d94ef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@id='engagement1'])[6]</value>
-      <webElementGuid>9d7ac8d2-9f75-4016-9cba-417b9f420fba</webElementGuid>
+      <webElementGuid>06fc2f43-727a-49c6-942a-6b317300fabf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/div/div/input</value>
-      <webElementGuid>f3df2dfc-8570-47b3-b571-fa8c0c3e370e</webElementGuid>
+      <webElementGuid>2183ed58-578e-4d26-94c6-03b7216b74ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @name = 'work_site' and @id = 'engagement1']</value>
-      <webElementGuid>21d9c9e5-0015-43bf-9449-64214cb437a7</webElementGuid>
+      <webElementGuid>e96d98eb-1b7b-4e2b-8935-784808228a88</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='Hour1']</value>
+         <value>(//input[@id='Hour1'])[${hourPerWeekIs}]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0b77810e-19b7-4e05-8e44-84dcd4205fcb</webElementGuid>
+      <webElementGuid>56284d19-4853-47c6-9fcf-61de1a1bb198</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>hours_per_week</value>
-      <webElementGuid>1715986b-6d08-4725-880e-762954b50afc</webElementGuid>
+      <webElementGuid>559f157b-fa15-44db-9490-09efe77a424d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>68bdcef2-a7e9-41a6-903c-6ea0ba18dce0</webElementGuid>
+      <webElementGuid>4c15660f-bc1c-4193-8e19-1dea17c547e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>hours_per_week</value>
-      <webElementGuid>28a4717a-f758-447c-aee1-a26e29e7fb4a</webElementGuid>
+      <webElementGuid>eeac9855-6b1f-42cf-9989-7233f5ce2386</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Hour1</value>
-      <webElementGuid>33355987-0d0c-4e69-8e07-c0a6c17858e2</webElementGuid>
+      <webElementGuid>3a01402b-0c73-45b4-8d29-4e7f08bbab44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-input custom-check-input ng-untouched ng-dirty ng-valid</value>
-      <webElementGuid>da95246f-e321-43e6-bb38-b8a4c49765e4</webElementGuid>
+      <webElementGuid>3593fff2-a46b-4b05-bfa1-fb2a95a1fc9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-job-posting[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;job-posting-page&quot;]/div[@class=&quot;container-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-8&quot;]/div[@class=&quot;posting-form&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 posting-col&quot;]/div[@class=&quot;radio-flex d-flex&quot;]/div[@class=&quot;radio-grid ng-star-inserted&quot;]/div[@class=&quot;form-check custom-form-check position-relative&quot;]/input[@id=&quot;Hour1&quot;]</value>
-      <webElementGuid>7ca971e1-078f-481b-810f-55aa2e7e734a</webElementGuid>
+      <webElementGuid>dd6f8a70-52a8-4cb3-b5af-204898fe9d18</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='Hour1']</value>
-      <webElementGuid>b0227f86-4e4e-4fc1-9e0a-55401b76a129</webElementGuid>
+      <webElementGuid>019f26ff-a6f3-4430-85e4-2cf525b53938</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/div/div/input</value>
-      <webElementGuid>7305bc11-29e1-463d-9ca0-365afb564a71</webElementGuid>
+      <webElementGuid>0a7e2b98-458c-40e7-a187-632f1067a3a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @name = 'hours_per_week' and @id = 'Hour1']</value>
-      <webElementGuid>d2f3e774-bee3-43a7-9110-bb0ceb528b3c</webElementGuid>
+      <webElementGuid>7ff5898a-3c70-45f0-bdeb-997455bed5f6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

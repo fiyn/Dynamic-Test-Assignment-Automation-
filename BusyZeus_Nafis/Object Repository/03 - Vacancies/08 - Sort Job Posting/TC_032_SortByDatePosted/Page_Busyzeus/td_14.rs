@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_14</name>
+   <tag></tag>
+   <elementGuidId>663d085d-eefe-4788-a77f-19141720609f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.active.available.end-date.start-date.today.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[18]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>354de04e-5ab8-48d4-855d-2612ccb97edd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active available end-date start-date today ng-star-inserted</value>
+      <webElementGuid>9dd6c09b-92f2-4bf4-9971-bff99fe267e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>1faed5e0-bb77-4286-b28e-cb22065244e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-vacancies[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;job-managment-section&quot;]/div[@class=&quot;row gx-0&quot;]/div[@class=&quot;col-lg-4 vacancies-border-r&quot;]/div[@class=&quot;vacancies-content vh-height-height&quot;]/div[@class=&quot;vacancies-filter&quot;]/form[@class=&quot;ng-valid ng-dirty ng-touched&quot;]/div[@class=&quot;row gx-2&quot;]/div[@class=&quot;col-sm-5 col-12&quot;]/div[@class=&quot;filter-group&quot;]/ngx-daterangepicker-material[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;md-drppicker drops-down-auto ltr shown double&quot;]/div[@class=&quot;calendar left ng-star-inserted&quot;]/div[@class=&quot;calendar-table&quot;]/table[@class=&quot;table-condensed ng-star-inserted&quot;]/tbody[@class=&quot;drp-animate&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;active available end-date start-date today ng-star-inserted&quot;]</value>
+      <webElementGuid>6699b0fa-9e1d-4592-b582-ae778def62f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[18]</value>
+      <webElementGuid>77032f9b-661d-49bf-b753-6d36d9a0a880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::td[18]</value>
+      <webElementGuid>82dbea2a-48e5-4112-b137-c72685792a16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[2]/preceding::td[25]</value>
+      <webElementGuid>be9c81d8-6d8a-4156-a27b-e22c8c0dd86b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[4]</value>
+      <webElementGuid>8a1c0984-0009-4416-aa5d-3e8cdc7b613b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '14' or . = '14')]</value>
+      <webElementGuid>e3b353ac-0891-4fa7-80f9-9078f4b59386</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

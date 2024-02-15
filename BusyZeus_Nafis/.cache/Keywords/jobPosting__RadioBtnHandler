@@ -1,0 +1,125 @@
+{
+  "keywordFileContentHash": "C772DF181B8703A1B583C5227907A00B",
+  "keywordClasses": [
+    {
+      "name": "jobPosting.RadioBtnHandler",
+      "keywordMethods": [
+        {
+          "name": "setStatus",
+          "parameters": [
+            {
+              "name": "status",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Set Status\n\t */"
+        },
+        {
+          "name": "setContractType",
+          "parameters": [
+            {
+              "name": "contractType",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Set Contract Type\n\t */"
+        },
+        {
+          "name": "setHourPerWeek",
+          "parameters": [
+            {
+              "name": "hourPerWeek",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Set Hour Per Week\n\t */"
+        },
+        {
+          "name": "setWorkingMode",
+          "parameters": [
+            {
+              "name": "workingMode",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Set Working Arrangement\n\t */"
+        },
+        {
+          "name": "setCitizenship",
+          "parameters": [
+            {
+              "name": "citizenship",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Set Citizenship\n\t */"
+        },
+        {
+          "name": "setVisaSupp",
+          "parameters": [
+            {
+              "name": "visaSupport",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Set Visa Support\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

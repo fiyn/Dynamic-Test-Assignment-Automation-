@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Employer sorts job posting  by 'Sort On' function</description>
+   <name>TC_035_SortBySortOn</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea4aa231-f20f-44b3-aa2f-b07aebeeabea</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab808ca1-c3f2-4df9-b319-271d479a3f8e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ASC'</defaultValue>
+      <description></description>
+      <id>ab808ca1-c3f2-4df9-b319-271d479a3f8e</id>
+      <masked>false</masked>
+      <name>sortOn</name>
+   </variable>
+</TestCaseEntity>

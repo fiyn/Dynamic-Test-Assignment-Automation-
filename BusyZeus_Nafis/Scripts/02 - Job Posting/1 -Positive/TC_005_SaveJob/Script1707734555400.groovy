@@ -41,7 +41,9 @@ WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/div_Se
 
 WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/span_Monthly Salary Type List', [('salaryType') : salaryType]))
 
-WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/input_Active_status'))
+status = CustomKeywords.'jobPosting.RadioBtnHandler.setStatus'(statusIs)
+
+WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/input_Active_status', [('status') : status]))
 
 WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/div_Country Location'))
 
@@ -57,17 +59,29 @@ WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/div_Ci
 
 WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/span_City  Location List', [('city') : city]))
 
-WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/input_Contract Type_engagement_type'))
+contractTypeIs = CustomKeywords.'jobPosting.RadioBtnHandler.setContractType'(contractType)
 
-WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/input_Hour Per Week_hours_per_week'))
+WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/input_Contract Type_engagement_type', [('contractTypeIs') : contractTypeIs]))
 
-WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/input_Working Arrangement_work_site'))
+hourPerWeekIs = CustomKeywords.'jobPosting.RadioBtnHandler.setHourPerWeek'(hourPerWeek)
+
+WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/input_Hour Per Week_hours_per_week', [('hourPerWeekIs') : hourPerWeekIs]))
+
+workingModeIs = CustomKeywords.'jobPosting.RadioBtnHandler.setWorkingMode'(workingMode)
+
+WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/input_Working Arrangement_work_site', [('workingModeIs') : workingModeIs]))
 
 WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/div_Education Industries'))
 
 WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/span_Food Industries List', [('industry') : industry]))
 
-WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/input_Citizenship'))
+citizenshipIs = CustomKeywords.'jobPosting.RadioBtnHandler.setCitizenship'(citizenship)
+
+WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/input_Citizenship', [('citizenshipIs') : citizenshipIs]))
+
+visaSupportIs = CustomKeywords.'jobPosting.RadioBtnHandler.setVisaSupp'(visaSupport)
+
+WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/input_Visa Support', [('visaSupportIs') : visaSupportIs]))
 
 WebUI.setText(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/textarea_a) Description_description'), description)
 
@@ -86,7 +100,7 @@ WebUI.setText(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/inpu
 
 WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/div_BCA Qualification'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/span_MCA Qualification List'))
+WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/span_MCA Qualification List', [('qualification') : qualification]))
 
 WebUI.click(findTestObject('02 - Job Posting/TC_006_PostJob/Page_Busyzeus/div_1 to 2 Years Experiences'))
 

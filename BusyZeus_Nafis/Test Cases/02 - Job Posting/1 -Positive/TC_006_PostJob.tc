@@ -113,6 +113,42 @@
       <value></value>
       <variableId>81fc1c63-86a8-4520-98b6-c25fd6d7998f</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>70dfe67f-5398-44ad-9a76-4f1876cd4710</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f8c9f33-36df-4eb7-9b11-81a7b4bf6ec3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>51ac1d2d-24bd-4110-bf18-ff6c0d6c4fb0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc247127-ebd8-44da-8857-40627b658569</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>67dfba52-5f3d-44fb-9eaa-9e1f22081557</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08d10c9d-b459-48f4-a86e-321d50c7f885</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'Engineer'</defaultValue>
       <description></description>
@@ -238,5 +274,47 @@
       <id>81fc1c63-86a8-4520-98b6-c25fd6d7998f</id>
       <masked>false</masked>
       <name>skillSet</name>
+   </variable>
+   <variable>
+      <defaultValue>'Close'</defaultValue>
+      <description></description>
+      <id>70dfe67f-5398-44ad-9a76-4f1876cd4710</id>
+      <masked>false</masked>
+      <name>statusIs</name>
+   </variable>
+   <variable>
+      <defaultValue>'2 Shift Time'</defaultValue>
+      <description></description>
+      <id>3f8c9f33-36df-4eb7-9b11-81a7b4bf6ec3</id>
+      <masked>false</masked>
+      <name>contractType</name>
+   </variable>
+   <variable>
+      <defaultValue>'Flexible'</defaultValue>
+      <description></description>
+      <id>51ac1d2d-24bd-4110-bf18-ff6c0d6c4fb0</id>
+      <masked>false</masked>
+      <name>hourPerWeek</name>
+   </variable>
+   <variable>
+      <defaultValue>'Both'</defaultValue>
+      <description></description>
+      <id>bc247127-ebd8-44da-8857-40627b658569</id>
+      <masked>false</masked>
+      <name>workingMode</name>
+   </variable>
+   <variable>
+      <defaultValue>'Non-Malaysian'</defaultValue>
+      <description></description>
+      <id>67dfba52-5f3d-44fb-9eaa-9e1f22081557</id>
+      <masked>false</masked>
+      <name>citizenship</name>
+   </variable>
+   <variable>
+      <defaultValue>'Yes'</defaultValue>
+      <description></description>
+      <id>08d10c9d-b459-48f4-a86e-321d50c7f885</id>
+      <masked>false</masked>
+      <name>visaSupport</name>
    </variable>
 </TestCaseEntity>

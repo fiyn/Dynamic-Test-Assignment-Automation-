@@ -6,12 +6,16 @@
    <elementGuidId>3f88c9c6-8520-4530-9f95-fdaa8ce56722</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'radio' and @name = 'engagement_type' and @id = 'engagement1']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#engagement1</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='engagement1']</value>
+         <value>(//input[@id='engagement1'])[${contractTypeIs}]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7462d4c9-7ef9-4c46-b431-e9de87bf96b0</webElementGuid>
+      <webElementGuid>386b08ee-05f4-4526-931d-bea9dab138bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>engagement_type</value>
-      <webElementGuid>4b4fef5f-d724-4ce2-a04d-b198275b0a74</webElementGuid>
+      <webElementGuid>b9b143cd-e536-4dad-ac79-0f2a7b4ef5bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>35d7354d-28c2-4084-af6e-af117a8d0740</webElementGuid>
+      <webElementGuid>e6fd73e0-25df-4f88-a3d3-fe2bdae81260</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>engagement_type</value>
-      <webElementGuid>02c3abbc-32b9-4092-a3fc-eab635069798</webElementGuid>
+      <webElementGuid>8d20a88d-c81f-4bb5-a43d-333132873cf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>engagement1</value>
-      <webElementGuid>6ba816a2-e9d5-41b1-9091-0b8be9e6a4b4</webElementGuid>
+      <webElementGuid>58ee11e9-0a28-450e-9d94-1820a3dbf5ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-input custom-check-input ng-untouched ng-dirty ng-valid</value>
-      <webElementGuid>6c33f22d-f4bd-4b03-acad-1eb6a98a55bc</webElementGuid>
+      <webElementGuid>92b3704a-380b-4a6d-b196-76ec7aca2cbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-job-posting[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;job-posting-page&quot;]/div[@class=&quot;container-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-8&quot;]/div[@class=&quot;posting-form&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 posting-col&quot;]/div[@class=&quot;radio-flex d-flex&quot;]/div[@class=&quot;radio-grid ng-star-inserted&quot;]/div[@class=&quot;form-check custom-form-check position-relative&quot;]/input[@id=&quot;engagement1&quot;]</value>
-      <webElementGuid>9536d3a4-e2a2-4797-a939-11d62c82f217</webElementGuid>
+      <webElementGuid>8a95c1f0-d3c8-4a71-bb49-9644fa0825a8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='engagement1']</value>
-      <webElementGuid>6dabcd03-d840-4f64-94ff-9ae4cc7f2c2e</webElementGuid>
+      <webElementGuid>5ad9b0f8-f5ce-4e32-9906-7d698acd742d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/div/div/input</value>
-      <webElementGuid>735b9d8a-34ab-43b3-a66a-70761dc3a56f</webElementGuid>
+      <webElementGuid>72570279-eaea-463d-a684-45e229bf00df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @name = 'engagement_type' and @id = 'engagement1']</value>
-      <webElementGuid>0e142ccc-585e-4f61-9761-1c3c76e4878b</webElementGuid>
+      <webElementGuid>c03d943a-2f4f-4347-a2f5-5f18c42ee9f6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

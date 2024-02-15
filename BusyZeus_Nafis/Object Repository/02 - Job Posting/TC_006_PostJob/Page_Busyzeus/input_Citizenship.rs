@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='citizenship1']</value>
+         <value>(//input[@id='${citizenshipIs}'])[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>28d5f3ec-a568-46e8-b168-6424a96f7eef</webElementGuid>
+      <webElementGuid>3773ed4e-ddb4-40f3-aa2d-c7c34c018c5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>90af45dd-e2e4-41eb-86bd-7416d42aecb8</webElementGuid>
+      <webElementGuid>b77f296c-1f7a-447e-aa6a-4ae48d1dbb1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>citizenship</value>
-      <webElementGuid>813428b3-7e12-4027-9e37-0ccae8827938</webElementGuid>
+      <webElementGuid>045c4963-0730-4ac7-8f08-b895d032cd29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>citizenship</value>
-      <webElementGuid>fed19908-906d-4a0e-8f59-41eee5e0595f</webElementGuid>
+      <webElementGuid>2edb2f3f-5514-4cd2-b53a-b258e7a00b75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>citizenship1</value>
-      <webElementGuid>e1b974e5-c2c5-4510-b2ab-694aac07b735</webElementGuid>
+      <webElementGuid>02a53280-cda7-458a-9ecd-60e0412e0da9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Malaysian</value>
-      <webElementGuid>a921ec4d-87d8-4b3a-a09b-89b17dc9132e</webElementGuid>
+      <webElementGuid>a19be529-5750-4b38-8e6f-c7bf24a56287</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-input custom-check-input ng-untouched ng-dirty ng-valid</value>
-      <webElementGuid>87ab03c1-7642-4947-a8e9-1bd5d1aa8a35</webElementGuid>
+      <webElementGuid>c87a1505-5c39-46cc-a4c4-cce90025a9ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;citizenship1&quot;)</value>
-      <webElementGuid>3142814b-c52f-4b23-a5dc-792c149ee093</webElementGuid>
+      <webElementGuid>b5f345dd-fa70-4269-bd39-9377069eee17</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='citizenship1']</value>
-      <webElementGuid>da2e20b7-bdf3-4df5-abf6-01bf3d3cdce7</webElementGuid>
+      <webElementGuid>4906d677-38e1-4dbb-ade5-5dcfb7aa1d0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[11]/div/div/div/input</value>
-      <webElementGuid>84cb258b-bf77-471a-9658-76efb5afa71a</webElementGuid>
+      <webElementGuid>ad72f9cb-8692-42e3-af7b-d5153a2c23b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @name = 'citizenship' and @id = 'citizenship1']</value>
-      <webElementGuid>020b436c-3313-45d9-a93d-636061f06823</webElementGuid>
+      <webElementGuid>212c8730-91e9-43f2-8ee7-fa5430c19f4a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

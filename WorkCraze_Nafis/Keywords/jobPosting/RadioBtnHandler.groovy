@@ -45,7 +45,7 @@ class RadioBtnHandler {
 	@Keyword (keywordObject = 'Set Status')
 	def setStatus(String status) {
 		String statusIs = ''
-		
+
 		switch (status) {
 			case "Active":
 				statusIs = 'status1'
@@ -57,7 +57,7 @@ class RadioBtnHandler {
 				statusIs = 'status1'
 				break;
 		}
-		
+
 		return statusIs
 	}
 
@@ -67,7 +67,7 @@ class RadioBtnHandler {
 	@Keyword (keywordObject = 'Set Contract Type')
 	def setContractType(String contractType) {
 		String contractTypeIs = ''
-		
+
 		switch (contractType) {
 			case "Permanent":
 				contractTypeIs = '1'
@@ -88,7 +88,7 @@ class RadioBtnHandler {
 				contractTypeIs = '1'
 				break;
 		}
-		
+
 		println contractTypeIs
 		return contractTypeIs
 	}
@@ -99,7 +99,7 @@ class RadioBtnHandler {
 	@Keyword (keywordObject = 'Set Hour Per Week')
 	def setHourPerWeek(String hourPerWeek) {
 		String hourPerWeekIs = ''
-		
+
 		switch (hourPerWeek) {
 			case "Normal Hour":
 				hourPerWeekIs = '1'
@@ -120,56 +120,56 @@ class RadioBtnHandler {
 				hourPerWeekIs = '1'
 				break;
 		}
-		
+
 		println hourPerWeekIs
 		return hourPerWeekIs
 	}
-	
+
 	/**
 	 * Set Working Arrangement
 	 */
 	@Keyword (keywordObject = 'Set Working Arrangement')
 	def setWorkingMode(String workingMode) {
 		String workingModeIs = ''
-				
-				switch (workingMode) {
-				case "On Site":
-					workingModeIs = '6'
-					break;
-				case "Work From Home":
-					workingModeIs = '7'
-					break;
-				case "Both":
-					workingModeIs = '8'
-					break;
-				default:
-					workingModeIs = '6'
-					break;
-				}
-		
+
+		switch (workingMode) {
+			case "On Site":
+				workingModeIs = '6'
+				break;
+			case "Work From Home":
+				workingModeIs = '7'
+				break;
+			case "Both":
+				workingModeIs = '8'
+				break;
+			default:
+				workingModeIs = '6'
+				break;
+		}
+
 		println workingModeIs
 		return workingModeIs
 	}
-	
+
 	/**
 	 * Set Citizenship
 	 */
 	@Keyword (keywordObject = 'Set Citizenship')
 	def setCitizenship(String citizenship) {
 		String citizenshipIs = ''
-				
-				switch (citizenship) {
-				case "Malaysian":
-					citizenshipIs = 'citizenship1'
-					break;
-				case "Non-Malaysian":
-					citizenshipIs = 'citizenship2'
-					break;
-				default:
-					citizenshipIs = 'citizenship1'
-					break;
-				}
-		
+
+		switch (citizenship) {
+			case "Malaysian":
+				citizenshipIs = 'citizenship1'
+				break;
+			case "Non-Malaysian":
+				citizenshipIs = 'citizenship2'
+				break;
+			default:
+				citizenshipIs = 'citizenship1'
+				break;
+		}
+
 		println citizenshipIs
 		return citizenshipIs
 	}
@@ -179,19 +179,19 @@ class RadioBtnHandler {
 	@Keyword (keywordObject = 'Visa Support')
 	def setVisaSupp(String visaSupport) {
 		String visaSupportIs = ''
-				
-				switch (visaSupport) {
-				case "Yes":
-					visaSupportIs = 'visa1'
-					break;
-				case "No":
-					visaSupportIs = 'visa2'
-					break;
-				default:
-					visaSupportIs = 'visa2'
-					break;
-				}
-		
+
+		switch (visaSupport) {
+			case "Yes":
+				visaSupportIs = 'visa1'
+				break;
+			case "No":
+				visaSupportIs = 'visa2'
+				break;
+			default:
+				visaSupportIs = 'visa2'
+				break;
+		}
+
 		println visaSupportIs
 		return visaSupportIs
 	}

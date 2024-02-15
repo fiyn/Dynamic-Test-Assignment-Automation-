@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>BusyZeus_Nafis</name>
+   <name>WorkCraze_Nafis</name>
    <tag></tag>
    <UUID>f3a861e0-57f0-436d-9f13-b2ef26cb95bc</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Hasnul\Katalon Studio\Dynamic-Test-Assignment-Automation-\BusyZeus_Nafis\BusyZeus_Nafis.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
